@@ -127,6 +127,4 @@ class _MenuCardState extends State<MenuCard> {
   }
 }
 
-// class _MenuCardState extends State<MenuCard> {
-
  
